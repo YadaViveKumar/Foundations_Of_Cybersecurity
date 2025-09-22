@@ -9,7 +9,7 @@ I set up a safe and functional cybersecurity lab environment using **Kali Linux*
 - **/screenshots/** – Optional sanitized lab setup screenshots.
 
 ## Lab Setup Video
-[View my 5-minute lab walkthrough video here](PASTE_YOUR_VIDEO_LINK_HERE)
+[View my 5-minute lab walkthrough video here] https://www.linkedin.com/posts/vivek-yadav-040361303_a-quick-walkthrough-of-my-lab-setup-for-cybersecurity-activity-7375738866873503744-Ct0M?utm_source=share&utm_medium=member_android&rcm=ACoAAE15APABWZ02dqRyl4cCzmUaBdYd7j2EzR8
 
 ## Final Report
 The full lab setup report with screenshots is included in my PDF submission.
